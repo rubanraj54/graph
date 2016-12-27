@@ -34,7 +34,7 @@ public class Main {
 
 		// shortest path
 
-		Node startNode = graph.getNode(5);
+		Node startNode = graph.getNode(1);
 
 		Node endNode = graph.getNode(8);
 
